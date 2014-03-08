@@ -45,7 +45,7 @@ gulp.task 'connect', connect.server
   open:
     browser  : 'safari'
   port       : 1337
-  root       : [dest]
+  root       : [paths.dest]
   livereload : yes
 
 gulp.task 'watch', ->

@@ -1,2 +1,7 @@
 node_modules/
 bower_components/
+build/partials/
+build/scripts/
+build/styles/
+build/images/
+build/**/*.html

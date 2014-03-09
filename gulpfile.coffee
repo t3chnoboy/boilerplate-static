@@ -54,4 +54,4 @@ gulp.task 'watch', ->
   gulp.watch paths.scripts, ['scripts']
 
 
-gulp.task 'default', ['connect', 'views', 'styles', 'scripts', 'watch']
+gulp.task 'default', ['connect', 'views', 'styles', 'scripts', 'images', 'watch']

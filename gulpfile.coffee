@@ -11,7 +11,7 @@ imagemin   = require 'gulp-imagemin'
 
 paths =
   views       : 'src/**/*.jade'
-  styles      : 'src/styles/**/*.stylus'
+  styles      : 'src/styles/**/*.styl'
   images      : 'src/images/**/*'
   scripts     : 'src/scripts/**/*.coffee'
   dest        : 'build'

@@ -4,9 +4,9 @@ A static webpage boilerplate with automated tasks
 
 
 ## Features
-1. Automatic CoffeeScript, Jade and Stylus compilation
-2. Minification and concatenation.
-3. Livereload without browser plugins
+* Automatic CoffeeScript, Jade and Stylus compilation
+* Minification and concatenation.
+* Livereload without browser plugins
 
 ## Instalation
 Just clone the repository
